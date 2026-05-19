@@ -14,4 +14,4 @@ Apoiar a análise de sentimento com o Modelo de Linguagem Natural
 Gerar insights para melhoria da experiência do cliente
 
 ### Tecnologias Utilizadas
-Python, Pandas, Matplotlib, Regex, Collections, API ChatGPT
+Python, Pandas, Matplotlib, Regex, Collections
