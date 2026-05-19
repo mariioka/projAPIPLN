@@ -1,7 +1,7 @@
-# Análise de Avaliações de Clientes com API ChatGPT 
+# Análise de Avaliações de Clientes com Modelo de Linguagem Natural
 
 ### Descrição
-Este projeto tem como objetivo analisar avaliações de clientes utilizando técnicas de processamento de linguagem natural (NLP) com o apoio da API do ChatGPT. A aplicação permite extrair insights relevantes a partir de comentários textuais, como sentimentos, palavras mais frequentes e padrões de feedback.
+Este projeto tem como objetivo analisar avaliações de clientes utilizando técnicas de processamento de linguagem natural (NLP) com o apoio de um Modelo de Linguagem Natural. A aplicação permite extrair insights relevantes a partir de comentários textuais, como sentimentos, palavras mais frequentes e padrões de feedback.
 O sistema foi desenvolvido para auxiliar na compreensão da percepção dos usuários sobre produtos ou serviços, facilitando a tomada de decisões baseada em dados.
 
 ### Dataset
@@ -10,7 +10,7 @@ Este projeto utiliza um dataset contendo avaliações de clientes do 89ºC Coffe
 ### Objetivo
 Compreender a opinião dos clientes
 Identificar padrões de satisfação e insatisfação
-Apoiar a análise de sentimento com a API ChatGPT
+Apoiar a análise de sentimento com o Modelo de Linguagem Natural
 Gerar insights para melhoria da experiência do cliente
 
 ### Tecnologias Utilizadas
